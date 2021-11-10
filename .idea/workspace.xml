@@ -3,28 +3,25 @@
   <component name="ChangeListManager">
     <list default="true" id="db6c415b-05ea-42ce-95bb-9c40f1d81abb" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/-if" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Assignment6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Assignment6_jar/-if" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/Assignment6_jar/Assignment6.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Assignment6_jar/Assignment6.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Assignment6_jar/bang-huh.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Assignment6_jar/buildings.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Assignment6_jar/cronch.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Assignment6_jar/cronch.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Assignment6_jar/for big bang/code/AnimationFileReader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Assignment6_jar/for big bang/code/TweenModelBuilder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Assignment6_jar/for big bang/code/buildings.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Assignment6_jar/for big bang/code/simple-example-with-loopback.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Assignment6_jar/for big bang/code/simple-example.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Assignment6_jar/for big bang/code/smalldemo.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Assignment6_jar/for big bang/code/toh-12.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Assignment6_jar/for big bang/code/toh-3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Assignment6_jar/for big bang/code/toh-8.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Assignment6_jar/scratch_1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Assignment6_jar/simple-example-with-loopback.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Assignment6_jar/simple-example.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Assignment6_jar/small.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Assignment6_jar/smalldemo.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Assignment6_jar/toh-12.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Assignment6_jar/toh-3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Assignment6_jar/toh-8.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Assignment6_jar/big-bang-big-crunch.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Assignment6_jar/for big bang/big-bang-big-crunch.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/bang-huh.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/big-bang-big-crunch.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/buildings.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/cronch.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/cronch.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/scratch_1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/simple-example-with-loopback.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/simple-example.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/small.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/smalldemo.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/toh-12.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/toh-3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/toh-8.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Assignment6/cs3500/animator/EasyAnimator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignment6/cs3500/animator/EasyAnimator.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/cs3500/animator/EasyAnimator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cs3500/animator/EasyAnimator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/cs3500/animator/model" beforeDir="false" afterPath="$PROJECT_DIR$/src/cs3500/animator/model" afterDir="false" />
@@ -42,8 +39,32 @@
       <file leaf-file-name="EasyAnimator.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/cs3500/animator/EasyAnimator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+            <state relative-caret-position="-1377">
+              <caret line="70" column="57" lean-forward="true" selection-start-line="70" selection-start-column="57" selection-end-line="70" selection-end-column="57" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="debugTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Test/cs3500/animator/debugTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="261">
+              <caret line="38" column="17" lean-forward="true" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Move.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cs3500/animator/model/Move.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
             </state>
           </provider>
         </entry>
@@ -128,7 +149,9 @@
         <option value="$PROJECT_DIR$/Test/cs3500/animator/EasyAnimatorTest.java" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.txt" />
         <option value="$PROJECT_DIR$/out/artifacts/Assignment6_jar/scratch_1.txt" />
+        <option value="$PROJECT_DIR$/Test/cs3500/animator/model/debugTest.java" />
         <option value="$PROJECT_DIR$/src/cs3500/animator/EasyAnimator.java" />
+        <option value="$PROJECT_DIR$/Test/cs3500/animator/debugTest.java" />
       </list>
     </option>
   </component>
@@ -146,49 +169,48 @@
     <panes>
       <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Assignment6" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Assignment6" type="462c0819:PsiDirectoryNode" />
+              <item name="animator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="animator" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Assignment6" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Assignment6" type="462c0819:PsiDirectoryNode" />
+              <item name="animator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="animator" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Assignment6" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Assignment6" type="462c0819:PsiDirectoryNode" />
+              <item name="animator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="animator" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="animator" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Assignment6" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Assignment6" type="462c0819:PsiDirectoryNode" />
+              <item name="animator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="animator" type="462c0819:PsiDirectoryNode" />
               <item name="Test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Assignment6" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Assignment6" type="462c0819:PsiDirectoryNode" />
+              <item name="animator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="animator" type="462c0819:PsiDirectoryNode" />
               <item name="Test" type="462c0819:PsiDirectoryNode" />
               <item name="animator" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Assignment6" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Assignment6" type="462c0819:PsiDirectoryNode" />
+              <item name="animator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="animator" type="462c0819:PsiDirectoryNode" />
               <item name="Test" type="462c0819:PsiDirectoryNode" />
               <item name="animator" type="462c0819:PsiDirectoryNode" />
               <item name="model" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Assignment6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="animator" type="b2602c69:ProjectViewProjectNode" />
               <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
             </path>
             <path>
-              <item name="Assignment6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="animator" type="b2602c69:ProjectViewProjectNode" />
               <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
               <item name="Scratches" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
             </path>
@@ -196,6 +218,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -203,30 +226,32 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/jar" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
       <recent name="cs3500.animator.model" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\dorot\Documents\Academic\Summer 1 2018\OOD\Homework\Assignment6\out\artifacts" />
-      <recent name="C:\Users\dorot\Documents\Academic\Summer 1 2018\OOD\Homework\Assignment6\out\artifacts\Assignment6_jar" />
-      <recent name="C:\Users\dorot\Documents\Academic\Summer 1 2018\OOD\Homework\Assignment6\Test\cs3500\animator\model" />
-    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="cs3500.animator" />
       <recent name="cs3500.animator.model" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dorot\Documents\Coding_Projects\animator\jar" />
+      <recent name="C:\Users\dorot\Documents\Academic\Summer 1 2018\OOD\Homework\Assignment6\out\artifacts\Assignment6_jar" />
+      <recent name="C:\Users\dorot\Documents\Academic\Summer 1 2018\OOD\Homework\Assignment6\out\artifacts\Assignment6_jar\for big bang" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dorot\Documents\Academic\Summer 1 2018\OOD\Homework\Assignment6\out\artifacts" />
       <recent name="C:\Users\dorot\Documents\Academic\Summer 1 2018\OOD\Homework\Assignment6\out\artifacts\Assignment6_jar" />
-      <recent name="C:\Users\dorot\Documents\Academic\Summer 1 2018\OOD\Homework\Assignment6\out\artifacts\Assignment6_jar\for big bang" />
+      <recent name="C:\Users\dorot\Documents\Academic\Summer 1 2018\OOD\Homework\Assignment6\Test\cs3500\animator\model" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -241,7 +266,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.All in Assignment6">
+  <component name="RunManager" selected="JUnit.debugTest.debug">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -266,7 +291,7 @@
       <module name="Assignment6" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cs3500.animator.model.*" />
+          <option name="PATTERN" value="cs3500.animator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -289,7 +314,7 @@
       <module name="Assignment6" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cs3500.animator.model.*" />
+          <option name="PATTERN" value="cs3500.animator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -308,42 +333,19 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="AnimatorModelImplTest.printSVGDescription" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="EasyAnimatorTest.getView" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Assignment6" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cs3500.animator.model.*" />
+          <option name="PATTERN" value="cs3500.animator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="cs3500.animator.model" />
-      <option name="MAIN_CLASS_NAME" value="cs3500.animator.model.AnimatorModelImplTest" />
-      <option name="METHOD_NAME" value="printSVGDescription" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="AnimatorModelImplTest.setTempo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Assignment6" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cs3500.animator.model.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="cs3500.animator.model" />
-      <option name="MAIN_CLASS_NAME" value="cs3500.animator.model.AnimatorModelImplTest" />
-      <option name="METHOD_NAME" value="setTempo" />
+      <option name="PACKAGE_NAME" value="cs3500.animator" />
+      <option name="MAIN_CLASS_NAME" value="cs3500.animator.EasyAnimatorTest" />
+      <option name="METHOD_NAME" value="getView" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -364,6 +366,29 @@
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="debugTest.debug" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assignment6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cs3500.animator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="cs3500.animator" />
+      <option name="MAIN_CLASS_NAME" value="cs3500.animator.debugTest" />
+      <option name="METHOD_NAME" value="debug" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/jar" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
         <value defaultName="singleModule" />
@@ -393,19 +418,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.AnimatorModelImplTest.setTempo" />
       <item itemvalue="JUnit.AnimatorModelImplTest.printAsString" />
-      <item itemvalue="JUnit.AnimatorModelImplTest.printSVGDescription" />
       <item itemvalue="JUnit.AnimatorModelImplTest.getShapesAtFrame" />
       <item itemvalue="JUnit.All in Assignment6" />
+      <item itemvalue="JUnit.EasyAnimatorTest.getView" />
+      <item itemvalue="JUnit.debugTest.debug" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.debugTest.debug" />
+        <item itemvalue="JUnit.EasyAnimatorTest.getView" />
         <item itemvalue="JUnit.All in Assignment6" />
         <item itemvalue="JUnit.AnimatorModelImplTest.getShapesAtFrame" />
         <item itemvalue="JUnit.AnimatorModelImplTest.printAsString" />
-        <item itemvalue="JUnit.AnimatorModelImplTest.printSVGDescription" />
-        <item itemvalue="JUnit.AnimatorModelImplTest.setTempo" />
       </list>
     </recent_temporary>
   </component>
@@ -423,35 +448,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AnimatorModelImplTest_getShapesAtFrame - 2018.06.17 at 19h 53m 15s.xml">
-      <configuration name="AnimatorModelImplTest.getShapesAtFrame" configurationId="JUnit" />
+    <history-entry file="debugTest_debug - 2021.11.10 at 15h 22m 08s.xml">
+      <configuration name="debugTest.debug" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="All_in_Assignment6 - 2018.06.17 at 19h 54m 24s.xml">
-      <configuration name="All in Assignment6" configurationId="JUnit" />
+    <history-entry file="debugTest_debug - 2021.11.10 at 15h 23m 17s.xml">
+      <configuration name="debugTest.debug" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="All_in_Assignment6 - 2018.06.17 at 19h 55m 06s.xml">
-      <configuration name="All in Assignment6" configurationId="JUnit" />
+    <history-entry file="debugTest_debug - 2021.11.10 at 15h 23m 49s.xml">
+      <configuration name="debugTest.debug" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="All_in_Assignment6 - 2018.06.17 at 19h 55m 11s.xml">
-      <configuration name="All in Assignment6" configurationId="JUnit" />
+    <history-entry file="debugTest_debug - 2021.11.10 at 15h 23m 50s.xml">
+      <configuration name="debugTest.debug" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="All_in_Assignment6 - 2018.12.12 at 03h 37m 46s.xml">
-      <configuration name="All in Assignment6" configurationId="JUnit" />
+    <history-entry file="debugTest_debug - 2021.11.10 at 15h 24m 05s.xml">
+      <configuration name="debugTest.debug" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="All_in_Assignment6 - 2018.12.12 at 03h 38m 35s.xml">
-      <configuration name="All in Assignment6" configurationId="JUnit" />
+    <history-entry file="debugTest_debug - 2021.11.10 at 15h 24m 18s.xml">
+      <configuration name="debugTest.debug" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="All_in_Assignment6 - 2018.12.12 at 04h 37m 36s.xml">
-      <configuration name="All in Assignment6" configurationId="JUnit" />
+    <history-entry file="debugTest_debug - 2021.11.10 at 15h 24m 48s.xml">
+      <configuration name="debugTest.debug" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="All_in_Assignment6 - 2018.12.13 at 01h 35m 37s.xml">
-      <configuration name="All in Assignment6" configurationId="JUnit" />
+    <history-entry file="debugTest_debug - 2021.11.10 at 15h 29m 04s.xml">
+      <configuration name="debugTest.debug" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="All_in_Assignment6 - 2018.12.13 at 01h 36m 45s.xml">
-      <configuration name="All in Assignment6" configurationId="JUnit" />
+    <history-entry file="debugTest_debug - 2021.11.10 at 15h 29m 11s.xml">
+      <configuration name="debugTest.debug" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="All_in_Assignment6 - 2021.11.01 at 14h 49m 48s.xml">
-      <configuration name="All in Assignment6" configurationId="JUnit" />
+    <history-entry file="debugTest_debug - 2021.11.10 at 15h 30m 09s.xml">
+      <configuration name="debugTest.debug" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -465,33 +490,34 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="bottom" id="TODO" order="10" weight="0.32884097" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.32614556" />
       <window_info anchor="right" id="Palette&#9;" order="1" />
       <window_info id="Image Layers" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.50065106" side_tool="true" weight="0.32762837" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.28301886" />
       <window_info anchor="bottom" id="Version Control" order="2" weight="0.32946298" />
-      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.49934897" visible="true" weight="0.18867925" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.39912918" />
+      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.49934897" weight="0.20899855" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="0" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.49598393" visible="true" weight="0.152349" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49598393" visible="true" weight="0.14899328" />
       <window_info id="Structure" order="6" sideWeight="0.50401604" side_tool="true" weight="0.20442708" />
       <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
       <window_info id="UI Designer" order="1" />
       <window_info anchor="right" id="Theme Preview" order="2" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.39892185" />
       <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.39767778" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.32884097" />
-      <window_info anchor="bottom" id="Messages" order="3" weight="0.32614556" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="4" />
@@ -499,12 +525,12 @@
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="bottom" id="Run" order="6" />
       <window_info anchor="right" id="Theme Preview" order="2" />
-      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49598393" visible="true" weight="0.20442708" />
       <window_info id="Structure" order="6" sideWeight="0.50401604" side_tool="true" weight="0.20442708" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="10" weight="0.32884097" />
+      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
       <window_info id="Image Layers" order="4" />
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
@@ -514,7 +540,7 @@
       <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.49934897" weight="0.35078534" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.50065106" side_tool="true" weight="0.32762837" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Messages" order="3" weight="0.32884097" />
@@ -527,20 +553,42 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="9" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cs3500/animator/model/Move.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Test/cs3500/animator/debugTest.java</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Test/cs3500/animator/debugTest.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Test/cs3500/animator/debugTest.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cs3500/animator/EasyAnimator.java</url>
+          <line>67</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="24" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Test/cs3500/animator/EasyAnimatorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="30" column="24" lean-forward="true" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Test/cs3500/animator/model/MoveTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -721,13 +769,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cs3500/animator/model/Move.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="707">
-          <caret line="60" column="28" selection-start-line="60" selection-start-column="14" selection-end-line="60" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/cs3500/animator/model/AShape.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="677">
@@ -770,13 +811,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
           <caret line="13" column="68" selection-start-line="13" selection-start-column="68" selection-end-line="13" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test/cs3500/animator/model/ScaleTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-242">
-          <caret line="22" column="46" selection-start-line="22" selection-start-column="46" selection-end-line="22" selection-end-column="46" />
         </state>
       </provider>
     </entry>
@@ -854,10 +888,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/jar/big-bang-big-crunch.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-567">
+          <caret line="12" column="91" selection-start-line="12" selection-start-column="91" selection-end-line="12" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/cs3500/animator/model/ScaleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="22" column="46" selection-start-line="22" selection-start-column="46" selection-end-line="22" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Test/cs3500/animator/model/AnimatorModelImplTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="18" column="48" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
+        <state relative-caret-position="3822">
+          <caret line="142" column="1" lean-forward="true" selection-start-line="142" selection-start-column="1" selection-end-line="142" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -866,21 +914,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Test/cs3500/animator/EasyAnimatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="30" column="24" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+        <state relative-caret-position="-210">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/out/test/Assignment6/cs3500/animator/model/AnimatorModelImplTest.class">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/src/cs3500/animator/model/Move.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/cs3500/animator/debugTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="38" column="17" lean-forward="true" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cs3500/animator/EasyAnimator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+        <state relative-caret-position="-1377">
+          <caret line="70" column="57" lean-forward="true" selection-start-line="70" selection-start-column="57" selection-end-line="70" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

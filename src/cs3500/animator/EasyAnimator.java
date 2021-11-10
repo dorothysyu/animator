@@ -32,7 +32,8 @@ public class EasyAnimator {
     String str = "";
     Arrays.asList(args).contains(str);
     if (throwsException(args)) {
-      JOptionPane.showMessageDialog(null, "Arguments aren't working!");
+      JOptionPane.showMessageDialog(null, "Check that you entered the arguments correctly and try" +
+              " again.");
     }
     try {
       AnimatorModel model = buildModelFromFile(args);
@@ -59,19 +60,19 @@ public class EasyAnimator {
             .contains("-iv"));
     boolean everyOtherIsDash = true;
     for (int i = 0; i < args.length; i++) {
-      if (i % 2 == 0) {
+      if (i % 2 == 1) {
         everyOtherIsDash &= (args[i].substring(0, 1).equals("-"));
         i++;
       }
     }
     boolean everyOtherIsNotDash = true;
     for (int j = 0; j < args.length; j++) {
-      if (j % 2 != 0) {
+      if (j % 2 == 0) {
         everyOtherIsNotDash &= (!args[j].substring(0, 1).equals("-"));
         j++;
       }
     }
-    return (oddArguments || !containsIfAndIv || !everyOtherIsDash || !everyOtherIsNotDash);
+    return (!oddArguments || !containsIfAndIv || !everyOtherIsDash || !everyOtherIsNotDash);
   }
 
   /**
