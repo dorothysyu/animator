@@ -86,26 +86,6 @@ public class MoveTest {
   }
 
   @Test(expected = IllegalArgumentException.class)
-  public void testInvalidFromX() {
-    IAnimator move = new Move("rect1", -10, 15, 20, 25, 30, 40);
-  }
-
-  @Test(expected = IllegalArgumentException.class)
-  public void testInvalidFromY() {
-    IAnimator move = new Move("rect1", 10, -15, 20, 25, 30, 40);
-  }
-
-  @Test(expected = IllegalArgumentException.class)
-  public void testInvalidToX() {
-    IAnimator move = new Move("rect1", 10, 15, -20, 25, 30, 40);
-  }
-
-  @Test(expected = IllegalArgumentException.class)
-  public void testInvalidToY() {
-    IAnimator move = new Move("rect1", 10, 15, 20, -25, 30, 40);
-  }
-
-  @Test(expected = IllegalArgumentException.class)
   public void testInvalidStartTime() {
     IAnimator move = new Move("rect1", 10, 15, 20, 25, -30, 40);
   }

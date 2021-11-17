@@ -15,7 +15,7 @@ public class EasyAnimatorTest {
   public void getView() {
     String[] arg2 = {
       "-jar",
-      "Assignment6.jar",
+      "Animator.jar",
       "-if",
       "big-bang-big-crunch.txt",
       "-iv",
@@ -42,7 +42,7 @@ public class EasyAnimatorTest {
 
     String[] arg4 = {
       "-jar",
-      "Assignment6.jar",
+      "Animator.jar",
       "-if",
       "big-bang-big-crunch.txt",
       "-iv",
@@ -84,11 +84,25 @@ public class EasyAnimatorTest {
       "out",
       "-speed",
       "500"};
-    assertEquals(false, EasyAnimator.throwsException(args));
+    assertEquals(false, EasyAnimator.argsAreInvalid(args));
 
     String[] arg2 = {"y"};
-    assertEquals(true, EasyAnimator.throwsException(arg2));
+    assertEquals(true, EasyAnimator.argsAreInvalid(arg2));
+  }
 
+  @Test
+  public void testDoesNotThrowException() {
+    String[] args = {
+            "java",
+            "-jar",
+            "Animator.jar",
+            "-if",
+            "buildings.txt",
+            "-iv",
+            "visual",
+            "-speed",
+            "50"};
+    assertEquals(false, EasyAnimator.argsAreInvalid(args));
   }
 
   @Test(expected = IllegalArgumentException.class)

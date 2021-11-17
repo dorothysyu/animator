@@ -29,11 +29,9 @@ public class EasyAnimator {
    * @param args comes from the command line and specifies what the animation should do.
    */
   public static void main(String[] args) {
-    String str = "";
-    Arrays.asList(args).contains(str);
-    if (throwsException(args)) {
+    if (argsAreInvalid(args)) {
       JOptionPane.showMessageDialog(null, "Check that you entered the arguments correctly and try" +
-              " again.");
+              " again..");
     }
     try {
       AnimatorModel model = buildModelFromFile(args);
@@ -54,25 +52,30 @@ public class EasyAnimator {
    * it does not contain the commands "-if" and "-iv"
    * it does not contain an alternating pattern of command and descriptor.
    */
-  public static boolean throwsException(String[] args) {
-    boolean oddArguments = (args.length % 2 != 0);
+  public static boolean argsAreInvalid(String[] args) {
     boolean containsIfAndIv = (Arrays.asList(args).contains("-if") || Arrays.asList(args)
             .contains("-iv"));
     boolean everyOtherIsDash = true;
-    for (int i = 0; i < args.length; i++) {
-      if (i % 2 == 1) {
+    int offset;
+    if (args[0].equals("java")) {
+      offset = 1;
+    } else {
+      offset = 0;
+    }
+    for (int i = offset; i < args.length; i++) {
+      if (i+offset % 2 == 0) {
         everyOtherIsDash &= (args[i].substring(0, 1).equals("-"));
         i++;
       }
     }
     boolean everyOtherIsNotDash = true;
-    for (int j = 0; j < args.length; j++) {
-      if (j % 2 == 0) {
-        everyOtherIsNotDash &= (!args[j].substring(0, 1).equals("-"));
-        j++;
+    for (int i = offset; i < args.length; i++) {
+      if (i+offset % 2 == 1) {
+        everyOtherIsNotDash &= (!args[i].substring(0, 1).equals("-"));
+        i++;
       }
     }
-    return (!oddArguments || !containsIfAndIv || !everyOtherIsDash || !everyOtherIsNotDash);
+    return !containsIfAndIv || !everyOtherIsDash || !everyOtherIsNotDash;
   }
 
   /**
