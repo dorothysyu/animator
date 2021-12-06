@@ -62,5 +62,6 @@ java -jar Animator.jar -if big-bang-big-crunch.txt -iv visual -o out -speed 100
 Dorothy Yu and [Jocelyn Chan](https://www.linkedin.com/in/jocelyn-chan-sw/)
 
 ## Acknowledgements
-Vidoje Mihajlovikj - Instructor for the OOD class
-OOD TAs - helpfully guided me and my partner to various solutions
+* Vidoje Mihajlovikj - Instructor for the OOD class
+* OOD TAs - helpfully guided me and my partner to various solutions
+* Code in `util` folder provided by course (i.e. not written by me or my partner)
